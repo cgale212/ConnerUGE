@@ -1,0 +1,364 @@
+#TESTTESTESTESTEST#
+
+
+# Change directory to home #
+cd
+history >> moving_around.txt
+# Clears terminal screen #
+clear
+ls -Rclear
+ls -R
+# lists folders and files in directory #
+ls
+# Changes directory to root #
+/
+ls moving_around.txt
+ls moving
+# shows manual for list #
+man ls
+history > moving_around.txt /Documents
+history > moving_around.txt
+# Shows Previous commands entered in terminal #
+history
+man less
+# allows scrolling when output cannont fit on screen #
+history | less
+history | lesspipe
+history r
+history
+...
+.
+ls .
+..
+ls /etc/pm
+ls /etc
+ls /
+ls cd
+ls ~/Music
+ls ~
+ls --..
+ls -..
+Public/
+lss
+../..
+gale/
+/gale
+man folder
+man new
+open *.jpg
+man open
+cd Pictures/
+Pictures
+pwd
+-R
+LS
+cd ..
+$
+cd /gale
+cd/
+cd ~
+home
+$ home
+ma
+man
+1
+ls -t
+ls -l
+ls -tr
+ls t
+ls -r
+r
+cd /AC6A18E76A18B056
+ls -lt
+cd /
+cd /home/gale/Music
+/ls
+cd /home/gale/Desktop
+cd /home/gale
+cd /home
+cd /usr
+cd usr
+pwdd
+echo $PATH
+echo $EDITOR
+sudo apt-get install sublime-text
+sudo apt-get update
+sudo add-apt-repository ppa:webupd8team/sublime-text-2
+subl ~/.config/fish/config.fish
+apt update
+sudo apt-get install -y sublime-text-installer
+git config --global user.emain
+git config --global user.email
+git config --global user.email 'cgale212@gmail.com'
+git config --global user.name
+sudo apt-get up
+curl -fsSL http://git.io/Ggdljw | sh
+curl -fsSL http://git.io/7UHtNA | sh
+git config --global user.emain 'cgale212@gmail.com'
+git config --global user.name 'Conner Gale'
+git --version
+sudo apt-get install -y git
+sudo sublime /usr/share/applications/sublime.desktop
+wget http://c758482.r82.cf2.rackcdn.com/sublime-text_build-3047_amd64.deb
+uname -m
+which fish
+sudo apt-get check
+sudo apt-get c
+fish_update_completions
+curl -fsSL http://git.io/beJs | ruby
+sudo apt-get install ruby
+sudo apt-seget install ruby
+chsh -s /usr/bin/fish
+sudo apt-get install -y fish git
+
+udo apt-get install -y fish git
+sudo apt-get install udo
+sudo apt-get udo
+sudo add-apt-repository -y ppa:git-core/ppa
+
+sudo apt-add-repository -y ppa:fish-shell/release-2
+curl -fsSL http://git.io/Ak1LNQ |sh
+curl -fsSL http://git.io/Ak1LNQ | sh
+curl -fsSL http://git.io/Ak1LNQ
+sudo apt-get install -y curl
+uname
+ls -l
+history >> moving_around.txt
+cd
+clear
+ls -Rclear
+ls -R
+ls
+/
+ls moving_around.txt
+ls moving
+man ls
+history > moving_around.txt /Documents
+history > moving_around.txt
+history
+man less
+history | less
+history | lesspipe
+history r
+history
+...
+.
+ls .
+..
+ls /etc/pm
+ls /etc
+ls /
+ls cd
+ls ~/Music
+ls ~
+ls --..
+ls -..
+Public/
+lss
+../..
+gale/
+/gale
+man folder
+man new
+open *.jpg
+man open
+cd Pictures/
+Pictures
+pwd
+-R
+LS
+cd ..
+$
+cd /gale
+cd/
+cd ~
+home
+$ home
+ma
+man
+1
+ls -t
+ls -tr
+ls t
+ls -r
+r
+cd /AC6A18E76A18B056
+ls -lt
+cd /
+cd /home/gale/Music
+/ls
+cd /home/gale/Desktop
+cd /home/gale
+cd /home
+cd /usr
+cd usr
+pwdd
+echo $PATH
+echo $EDITOR
+sudo apt-get install sublime-text
+sudo apt-get update
+sudo add-apt-repository ppa:webupd8team/sublime-text-2
+subl ~/.config/fish/config.fish
+apt update
+sudo apt-get install -y sublime-text-installer
+git config --global user.emain
+git config --global user.email
+git config --global user.email 'cgale212@gmail.com'
+git config --global user.name
+sudo apt-get up
+curl -fsSL http://git.io/Ggdljw | sh
+curl -fsSL http://git.io/7UHtNA | sh
+git config --global user.emain 'cgale212@gmail.com'
+git config --global user.name 'Conner Gale'
+git --version
+sudo apt-get install -y git
+sudo sublime /usr/share/applications/sublime.desktop
+wget http://c758482.r82.cf2.rackcdn.com/sublime-text_build-3047_amd64.deb
+uname -m
+# Shows version of fish #
+which fish
+sudo apt-get check
+sudo apt-get c
+fish_update_completions
+curl -fsSL http://git.io/beJs | ruby
+sudo apt-get install ruby
+sudo apt-seget install ruby
+chsh -s /usr/bin/fish
+sudo apt-get install -y fish git
+
+udo apt-get install -y fish git
+sudo apt-get install udo
+sudo apt-get udo
+sudo add-apt-repository -y ppa:git-core/ppa
+
+sudo apt-add-repository -y ppa:fish-shell/release-2
+curl -fsSL http://git.io/Ak1LNQ |sh
+curl -fsSL http://git.io/Ak1LNQ | sh
+curl -fsSL http://git.io/Ak1LNQ
+sudo apt-get install -y curl
+# Shows name of OS #
+uname
+gale/
+..
+.
+uge_workshop/
+/uge_workshop/
+/uge_workshop
+mkdir uge_workshop
+ls
+clear
+open
+open cd
+mkdir test
+man history
+man -r
+history
+subl moving_around.txt
+history | less
+ls -l
+history >> moving_around.txt
+cd
+ls -Rclear
+ls -R
+/
+ls moving_around.txt
+ls moving
+man ls
+history > moving_around.txt /Documents
+history > moving_around.txt
+man less
+history | lesspipe
+history r
+history
+...
+ls .
+ls /etc/pm
+ls /etc
+ls /
+ls cd
+ls ~/Music
+ls ~
+ls --..
+ls -..
+Public/
+lss
+../..
+/gale
+man folder
+man new
+open *.jpg
+man open
+cd Pictures/
+Pictures
+pwd
+-R
+LS
+cd ..
+$
+cd /gale
+cd/
+cd ~
+home
+$ home
+ma
+man
+1
+ls -t
+ls -tr
+ls t
+ls -r
+r
+cd /AC6A18E76A18B056
+ls -lt
+cd /
+cd /home/gale/Music
+/ls
+cd /home/gale/Desktop
+cd /home/gale
+cd /home
+cd /usr
+cd usr
+pwdd
+echo $PATH
+echo $EDITOR
+sudo apt-get install sublime-text
+sudo apt-get update
+sudo add-apt-repository ppa:webupd8team/sublime-text-2
+subl ~/.config/fish/config.fish
+apt update
+sudo apt-get install -y sublime-text-installer
+git config --global user.emain
+git config --global user.email
+git config --global user.email 'cgale212@gmail.com'
+git config --global user.name
+sudo apt-get up
+curl -fsSL http://git.io/Ggdljw | sh
+curl -fsSL http://git.io/7UHtNA | sh
+git config --global user.emain 'cgale212@gmail.com'
+git config --global user.name 'Conner Gale'
+git --version
+sudo apt-get install -y git
+sudo sublime /usr/share/applications/sublime.desktop
+wget http://c758482.r82.cf2.rackcdn.com/sublime-text_build-3047_amd64.deb
+uname -m
+which fish
+sudo apt-get check
+sudo apt-get c
+fish_update_completions
+curl -fsSL http://git.io/beJs | ruby
+sudo apt-get install ruby
+sudo apt-seget install ruby
+chsh -s /usr/bin/fish
+sudo apt-get install -y fish git
+
+udo apt-get install -y fish git
+sudo apt-get install udo
+sudo apt-get udo
+sudo add-apt-repository -y ppa:git-core/ppa
+
+sudo apt-add-repository -y ppa:fish-shell/release-2
+curl -fsSL http://git.io/Ak1LNQ |sh
+curl -fsSL http://git.io/Ak1LNQ | sh
+curl -fsSL http://git.io/Ak1LNQ
+sudo apt-get install -y curl
+uname
