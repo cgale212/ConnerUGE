@@ -1,5 +1,5 @@
 #TESTTESTESTESTEST#
-
+# ls -a for hidden directories#
 
 # Change directory to home #
 cd
