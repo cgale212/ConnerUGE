@@ -34,6 +34,9 @@ ls /etc/pm
 ls /etc
 ls /
 ls cd
+
+
+#list of music
 ls ~/Music
 ls ~
 ls --..
