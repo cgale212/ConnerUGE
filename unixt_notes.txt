@@ -1,6 +1,6 @@
 #TESTTESTESTESTEST#
 # ls -a for hidden directories#
-
+# edit 1 #
 # Change directory to home #
 cd
 history >> moving_around.txt
