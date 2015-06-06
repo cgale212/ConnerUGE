@@ -1,3 +1,6 @@
+#TESTTESTESTESTEST#
+
+
 # Change directory to home #
 cd
 history >> moving_around.txt
@@ -250,7 +253,7 @@ mkdir test
 man history
 man -r
 history
-subl moving_around.txt 
+subl moving_around.txt
 history | less
 ls -l
 history >> moving_around.txt
@@ -258,15 +261,15 @@ cd
 ls -Rclear
 ls -R
 /
-ls moving_around.txt 
+ls moving_around.txt
 ls moving
 man ls
 history > moving_around.txt /Documents
 history > moving_around.txt
 man less
-history | lesspipe 
+history | lesspipe
 history r
-history 
+history
 ...
 ls .
 ls /etc/pm
@@ -343,8 +346,8 @@ sudo apt-get check
 sudo apt-get c
 fish_update_completions
 curl -fsSL http://git.io/beJs | ruby
-sudo apt-get install ruby 
-sudo apt-seget install ruby 
+sudo apt-get install ruby
+sudo apt-seget install ruby
 chsh -s /usr/bin/fish
 sudo apt-get install -y fish git
 
